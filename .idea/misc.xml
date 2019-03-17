@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/spring-cloud-eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-eureka-cluster/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-eureka-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-eureka-producer/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-eureka-producer_1/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-eureka-single/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-eureka-consumer_ribbon/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-consumer-hystrix/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-consumer-hystrix-dashboard/pom.xml" />
+        <option value="$PROJECT_DIR$/gateway-service-zuul/pom.xml" />
+        <option value="$PROJECT_DIR$/gateway-service-zuul-eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-config-git/spring-cloud-config-client/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-config-git/spring-cloud-config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-config-git-eureka-bus/spring-cloud-config-client-bus/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-config-git-eureka-bus/spring-cloud-config-server-bus/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

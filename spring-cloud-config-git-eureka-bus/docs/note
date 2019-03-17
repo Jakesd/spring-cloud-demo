@@ -1,0 +1,3 @@
+SpringCloudBus通过一个轻量级消息代理连接分布式系统的节点。这可以用于广播状态更改（如配置更改）或其他管理指令。
+SpringCloudBus提供了通过POST方法访问的endpoint/bus/refresh，
+这个接口通常由git的钩子功能调用，用以通知各个SpringCloudConfig的客户端去服务端更新配置。

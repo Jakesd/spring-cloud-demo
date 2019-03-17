@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/gateway-service-zuul-eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gateway-service-zuul-simple" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-config-git-eureka-bus/spring-cloud-config-client-bus" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-config-git-eureka-bus/spring-cloud-config-server-bus" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-config-git/spring-cloud-config-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-config-git/spring-cloud-config-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-consumer-hystrix" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-consumer-hystrix-dashboard" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-eureka-cluster" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-eureka-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-eureka-producer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-eureka-producer_1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-eureka-single" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-zuul" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
